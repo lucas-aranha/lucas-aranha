@@ -1,16 +1,19 @@
-### Hi there 👋
+# Olá, eu sou Lucas Aranha!
 
-<!--
-**lucas-aranha/lucas-aranha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um matemático que se rendeu aos encantos do mundo da tecnologia. Atualmente faço parte do Grupo de Estudos em Modelagem Matemática (GEMM) e do Laboratório Experimental de Modelagem Matemática (LEMM). Utilizo a modelagem com ênfase no estudo de doenças infectocontagiosas, especialmente como modelos de séries temporais. Tenho um interesse especial pelas áreas de Epidemioogia, Machine Learning e Análise de Dados.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-aranha&show_icons=true&theme=outrun)
+
+## Ranking de Linguagens 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-aranha&layout=compact&show_icons=true&theme=outrun)](https://github.com/lucas-aranha/github-readme-stats)
+
+## Redes Sociais
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/lucas-aranha-035a73215/)
+[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='30'>](https://t.me/L_Aranha)
