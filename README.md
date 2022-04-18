@@ -1,23 +1,12 @@
-# Olá, eu sou Lucas Aranha!
+# Eu sou Lucas Aranha, seja bem vindo a minha teia!
 
 Um matemático que se rendeu aos encantos do mundo da tecnologia. Atualmente faço parte do Grupo de Estudos em Modelagem Matemática (GEMM) e do Laboratório Experimental de Modelagem Matemática (LEMM). Utilizo a modelagem com ênfase no estudo de doenças infectocontagiosas, especialmente como modelos de séries temporais. Tenho um interesse especial pelas áreas de Epidemioogia, Machine Learning e Análise de Dados.
 
-## Skills
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-
-<h3 align="left"> 📊 Métricas do Github: </h3>
+<h2 align="left"> 📊 Métricas do Github: </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-aranha&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-aranha" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-aranha&show_icons=true&theme=outrun)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-aranha&layout=compact&show_icons=true&theme=outrun)](https://github.com/lucas-aranha/github-readme-stats)
-
-## Redes Sociais
-
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/lucas-aranha-035a73215/)
-[<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='30'>](https://t.me/L_Aranha)
 
 ## 🛠️ Algumas linguagens e ferramentas que eu uso:
   <br/>
@@ -32,6 +21,6 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 <h2 align="left">🔗 Entre em contato comigo:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucas-aranha-035a73215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasaranha" height="30" width="40" /></a>
-<a href="https://t.me/L_Aranha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasaranha" height="30" width="40" /></a>
+<a href="https://t.me/L_Aranha" target="blank"><img align="center" src="telegram-svgrepo-com.svg" alt="lucasaranha" height="30" width="40" /></a>
 <a href="https://instagram.com/lucas_arachne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasaranha" height="30" width="40" /></a>
 </p>
