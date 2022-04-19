@@ -8,10 +8,9 @@ Um matemático que se rendeu aos encantos do mundo da tecnologia. Atualmente fa�
 <br><br>
 
 <h2 align="left"> 📊 Métricas do Github: </h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucas-aranha&label=Profile%20views&color=0e75b6&style=flat" alt="lucas-aranha" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-aranha&show_icons=true&theme=outrun)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-aranha&layout=compact&show_icons=true&theme=outrun)](https://github.com/lucas-aranha/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-aranha&show_icons=true&bg_color=DEG,fbb03b,8a3cc4,ed1c24&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-aranha&layout=compact&show_icons=true&bg_color=DEG,fbb03b,8a3cc4,ed1c24&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/lucas-aranha/github-readme-stats)
 
 <br><br>
 
