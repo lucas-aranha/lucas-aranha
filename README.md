@@ -31,8 +31,8 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 <p align="left"> <a 
 href="https://api.badgr.io/public/assertions/2Fqa_bfmQlii3_wlZphHkw?identity__email=lucas.arachne%40gmail.com" target="blank"><img align="center" src="AdvancedECLBadge.png" alt="ecl_badge" height="60" width="60"/> </a> <a 
 href="data-visualization-with-r.png" target="_blank" target="blank"><img align="center" src="data-visualization-with-r.png" alt="R_dv" width="60" height="60"/> </a> </p>
-
-<img align="center" height="590em" src="treinadora_poke.jpg"/>
+<br><br>
+<img align="center" height="200em" src="treinadora_poke.jpg"/>
 
 </br><br>
 
