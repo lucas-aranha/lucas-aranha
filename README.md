@@ -13,8 +13,8 @@ Uma curiosidade sobre mim: às vezes faço ilustrações digitais. Inclusive a q
 <h2 align="left"> 📊 Métricas do Github: </h2>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-aranha&show_icons=true&bg_color=DEG,fbb03b,8a3cc4,ed1c24&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-aranha&layout=compact&show_icons=true&bg_color=DEG,fbb03b,8a3cc4,ed1c24&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/lucas-aranha/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-aranha&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-aranha&layout=compact&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff)](https://github.com/lucas-aranha/github-readme-stats)
 
 <br><br>
 
