@@ -30,6 +30,7 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 ## 📕 Vem conferir meus últimos artigos:
 
 - [A dinâmica da dengue em Belém: um projeto end-to-end de Análise de Séries Temporais em Python](https://datarooters.medium.com/b9ca8569ce78)
+- [Um pouco da história e curiosidades sobre Python](https://datarooters.medium.com/863a6983c777)
 
 <br><br>
 
