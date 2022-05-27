@@ -27,14 +27,19 @@ href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="n
 
 <br><br>
 
-## 📕 Vem conferir meus últimos artigos:
+## 📓 Vem conferir meus últimos artigos:
 
 - [A dinâmica da dengue em Belém: um projeto end-to-end de Análise de Séries Temporais em Python](https://datarooters.medium.com/b9ca8569ce78)
+
+
+## 📚 Outros artigos dos Data Hooters:
+
 - [Um pouco da história e curiosidades sobre Python](https://datarooters.medium.com/863a6983c777)
+- [Análise de dados da Premier League 1995–2021](https://datarooters.medium.com/86d0a6d34dc1)
 
 <br><br>
 
-## Insígnias:
+## 🎖 Insígnias:
   <br/>
 <p align="left"> <a 
 href="https://api.badgr.io/public/assertions/2Fqa_bfmQlii3_wlZphHkw?identity__email=lucas.arachne%40gmail.com" target="blank"><img align="center" src="docs/imagens/AdvancedECLBadge.png" alt="ecl_badge" height="80" width="80"/> </a> <a 
